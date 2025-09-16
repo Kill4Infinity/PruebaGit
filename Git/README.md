@@ -1,0 +1,1 @@
+Proyecto de ejemplo para pruebas rápidas en Visual Studio Code.
